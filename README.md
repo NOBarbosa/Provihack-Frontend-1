@@ -8,6 +8,7 @@
 # Projeto Hackathon
 
 ### Vídeo demo:  https://youtu.be/OrDgj76ebNk
+### Pitch: https://www.youtube.com/watch?v=WMef-zFjMK8&ab_channel=THAISMARIADASILVABARBOSA
 ## Objetivos: 
 -  Implementar uma API de geolocalização para indicar quais estabelecimentos possuem acessibilidade (autonomia, conforto e segurança)
 
